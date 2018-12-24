@@ -1,5 +1,5 @@
 <?php
-namespace Yum\session;
+namespace Yum\Session;
 
 class Session{
 

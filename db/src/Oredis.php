@@ -1,5 +1,5 @@
 <?php
-namespace Yum\db;
+namespace Yum\Db;
 /**
  * value限制为1G
  * $config['Redis'] = array('127.0.0.1', '6379');  //redis存储.
