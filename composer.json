@@ -1,5 +1,5 @@
 {
-  "name": "yum/lib",
+  "name": "yum",
   "description": "library",
 
   "require": {
