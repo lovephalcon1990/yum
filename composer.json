@@ -1,7 +1,12 @@
 {
   "name": "yum",
   "description": "library",
-
+  "authors": [
+    {
+      "name": "steps.zeng",
+      "email": "zengyueming1990@gmail.com"
+    }
+    ],
   "require": {
     "php": "^7.2"
   },
@@ -10,7 +15,7 @@
       "Yum\\Core":"core/src",
       "Yum\\Db":"db/src",
       "Yum\\Log":"log/src",
-      "Yum\\session":"session/src"
+      "Yum\\Session":"session/src"
     }
   }
 }
