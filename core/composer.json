@@ -1,6 +1,6 @@
 {
-  "name": "yum",
-  "description": "library",
+  "name": "yum/core",
+  "type": "library",
   "authors": [
     {
       "name": "steps.zeng",
@@ -12,10 +12,7 @@
   },
   "autoload":{
     "psr-4": {
-      "Yum\\Core\\":"core/src",
-      "Yum\\Db\\":"db/src",
-      "Yum\\Log\\":"log/src",
-      "Yum\\Session\\":"session/src"
+      "Yum\\Core\\":"src"
     }
   }
 }

@@ -1,0 +1,19 @@
+{
+  "name": "yum/session",
+  "type": "library",
+  "authors": [
+    {
+      "name": "steps.zeng",
+      "email": "zengyueming1990@gmail.com"
+    }
+    ],
+  "require": {
+    "php": "^7.2",
+    "yum/core":"dev-master"
+  },
+  "autoload":{
+    "psr-4": {
+      "Yum\\Session\\":"src"
+    }
+  }
+}
