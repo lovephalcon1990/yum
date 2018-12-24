@@ -1,0 +1,18 @@
+{
+  "name": "Yum/Session",
+  "type": "library",
+  "require": {
+
+  },
+  "authors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Yum\\Session\\": "src"
+    }
+  }
+}

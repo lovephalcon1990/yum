@@ -1,0 +1,18 @@
+{
+  "name": "Yum/Log",
+  "type": "library",
+  "require": {
+
+  },
+  "authors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Yum\\Log\\": "src"
+    }
+  }
+}
